@@ -1,0 +1,15 @@
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.exe
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.deps.json
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.runtimeconfig.json
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.dll
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\bin\Debug\net7.0\Screen Sound.pdb
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.csproj.AssemblyReference.cache
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.AssemblyInfoInputs.cache
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.AssemblyInfo.cs
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.csproj.CoreCompileInputs.cache
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.dll
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\refint\Screen Sound.dll
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.pdb
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\Screen Sound.genruntimeconfig.cache
+C:\Users\edgard\Documents\C# ALURA\03 - Criando sua primeira aplicação\Screen Sound\Screen Sound\obj\Debug\net7.0\ref\Screen Sound.dll
